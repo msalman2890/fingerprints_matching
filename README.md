@@ -11,13 +11,13 @@ Fingerprint Module Installation
 The recommended way to install the `fingerprints_matching` module is to simply use `pip`:
 
 ```console
-$ pip install fingerprints_matching
+$ pip install fingerprints-matching
 ```
 Fingerprint Matching officially supports Python >= 3.0.
 
 How to use fingerprint?
 -----------------------
 ```pycon
->>> from fingerprints_matching import FingerprintsMatching
+>>> from fingerprints_matching.fingerprints_matching import FingerprintsMatching
 >>> match_score = FingerprintsMatching.fingerprints_matching("image1.png", "image2.png")
 ```
