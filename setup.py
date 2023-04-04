@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Muhammad Salman Bediya',
     author_email='juraij2890@gmail.com',
-    url='https://github.com/your_username/my_package',
+    url='https://github.com/msalman2890/fingerprints_matching',
     license='MIT License',
     packages=['fingerprints_matching'],
     install_requires=[
